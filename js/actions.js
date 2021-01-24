@@ -17,3 +17,5 @@ $("#botonblue").click(function() {
 $("#botonbrown").click(function() {
     $("#placeholder").css("background-color", "brown");
 });
+
+//create document buscar después
